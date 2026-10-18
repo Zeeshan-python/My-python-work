@@ -8,6 +8,7 @@ This repository contains my beginner python projects and practice files.
 - **Greeting Bot:**A simple interactive program that greets the user.
 - **String Reverse:**A program that reverse a given string.
 - **Math Quiz Game:** A fun interactive game using random numbers and functions
+- **Scientific Calculator:** An advanced calculator using the math module (trigonometry, logarithms, factorials).
 ## My Goals:
 - To master python programming.
 - To learn Web Scraping and File Automation.
