@@ -7,6 +7,7 @@ This repository contains my beginner python projects and practice files.
 - **Table Printer:**A script that prints the multiplication table of a given number.
 - **Greeting Bot:**A simple interactive program that greets the user.
 - **String Reverse:**A program that reverse a given string.
+- **Math Quiz Game:** A fun interactive game using random numbers and functions
 ## My Goals:
 - To master python programming.
 - To learn Web Scraping and File Automation.
