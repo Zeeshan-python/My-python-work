@@ -3,12 +3,13 @@ Hello! I am Zeeshan, an ICS student from Pakistan who is passionate about learni
 This repository contains my beginner python projects and practice files.
 ## Projects included:
 - **Calculator:** A simple calculator that perform basic arithmetic operation.
-- **Even/Odd Checker:**A program to check if the number is even or odd.
-- **Table Printer:**A script that prints the multiplication table of a given number.
-- **Greeting Bot:**A simple interactive program that greets the user.
-- **String Reverse:**A program that reverse a given string.
+- **Even/Odd Checker:** A program to check if the number is even or odd.
+- **Table Printer:** A script that prints the multiplication table of a given number.
+- **Greeting Bot:** A simple interactive program that greets the user.
+- **String Reverse:** A program that reverse a given string.
 - **Math Quiz Game:** A fun interactive game using random numbers and functions
 - **Scientific Calculator:** An advanced calculator using the math module (trigonometry, logarithms, factorials).
+- **KBC Quiz Game:** An interactive quiz game built from memory using lists, loops, conditionals, and break statement.
 ## My Goals:
 - To master python programming.
 - To learn Web Scraping and File Automation.
