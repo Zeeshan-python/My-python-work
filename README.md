@@ -10,6 +10,7 @@ This repository contains my beginner python projects and practice files.
 - **Math Quiz Game:** A fun interactive game using random numbers and functions
 - **Scientific Calculator:** An advanced calculator using the math module (trigonometry, logarithms, factorials).
 - **KBC Quiz Game:** An interactive quiz game built from memory using lists, loops, conditionals, and break statement.
+- **Number Guessing Game:** An interactive game using the random module, while loop, and conditional logic.
 ## My Goals:
 - To master python programming.
 - To learn Web Scraping and File Automation.
